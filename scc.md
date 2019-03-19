@@ -26,11 +26,77 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
       <th>DATE</th>
       <th>TOPIC</th> 
       <th>DETAILS</th>
+   </tr>
+   <tr>
+      <th>0</th>
+      <th>4/1/19</th> 
+      <th>Spring quarter</th>
+      <th>Quarter begins</th>
   </tr>
-    <tr>
-    <th>0</th>
-    <th>4/1/19</th> 
-    <th>Spring quarter</th>
-    <th>Quarter begins</th>
+  <tr>
+      <th>1</th>
+      <th>4/5/19</th> 
+      <th>topic</th>
+      <th>descr</th>
   </tr>
+     <tr>
+      <th>2</th>
+      <th>4/12/19</th> 
+      <th>topic</th>
+      <th>descr</th>
+  </tr>  
+   <tr>
+      <th>3</th>
+      <th>4/19/19</th> 
+      <th>topic</th>
+      <th>descr</th>
+  </tr>  
+   <tr>
+      <th>4</th>
+      <th>4/26/19</th> 
+      <th>topic</th>
+      <th>descr</th>
+  </tr>  
+   <tr>
+      <th>5</th>
+      <th>5/3/19</th> 
+      <th>topic</th>
+      <th>descr</th>
+  </tr>  
+   <tr>
+      <th>6</th>
+      <th>5/10/19</th> 
+      <th>topic</th>
+      <th>descr</th>
+  </tr>  
+   <tr>
+      <th>7</th>
+      <th>5/17/19</th> 
+      <th>topic</th>
+      <th>descr</th>
+  </tr>  
+   <tr>
+      <th>8</th>
+      <th>5/24/19</th> 
+      <th>topic</th>
+      <th>descr</th>
+  </tr>  
+   <tr>
+      <th>10</th>
+      <th>6/7/19 - 6/14/19</th> 
+      <th>SCC Core group Selection</th>
+      <th>complete before finals</th>
+  </tr>  
+  <tr>
+      <th>11</th>
+      <th>6/8/19 - 6/14/19</th> 
+      <th>Q3-Spring ends</th>
+      <th>Final exams week</th>
+  </tr>  
+   <tr>
+      <th>10</th>
+      <th>6/8/19 - 6/14/19</th> 
+      <th>Q3-Spring ends</th>
+      <th>Final exams week</th>
+  </tr>  
   </table>
