@@ -29,7 +29,7 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
    </colgroup>
    <tr>
       <th>WEEK</th>
-      <th>DATE</th>
+      <th>DATES</th>
       <th>TOPIC</th> 
       <th>DETAILS</th>
    </tr>
