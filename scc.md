@@ -20,15 +20,10 @@ Once the training sessions have been completed, a group of the top students (app
 The final 6 (plus alternates), who will travel to the meeting, will be chosen from the SCC core group. All team members will be participating in preparing for the actual meeting.
 
 
-SCC Training Plan (Tentative):
-WEEK
-DATE
-TOPIC
-DETAILS
-0
-4/1/19
-Spring quarter
-Quarter begins
+# SCC Training Plan (Tentative):
+|WEEK | DATE | TOPIC | DETAILS |
+|0 |4/1/19 |Spring quarter |Quarter begins|
+
 1
 4/5/19
 SCC Program
