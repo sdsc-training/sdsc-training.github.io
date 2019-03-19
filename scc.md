@@ -20,7 +20,13 @@ Once the training sessions have been completed, a group of the top students (app
 The final 6 (plus alternates), who will travel to the meeting, will be chosen from the SCC core group. All team members will be participating in preparing for the actual meeting.
 
 <h2>SCC Training Plan (Tentative):</h2>
-<table style="width 90%; text-align: left">
+<table style="width 90%;" >
+   <colgroup>
+      <col span="2" style="background-color:red">
+      <col style="background-color:yellow">
+     <col span="2" style="background-color:red">
+      <col style="background-color:yellow">
+   </colgroup>
    <tr>
       <th>WEEK</th>
       <th>DATE</th>
