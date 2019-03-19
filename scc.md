@@ -22,9 +22,9 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
 <h2>SCC Training Plan (Tentative):</h2>
 <table style="width 90%;" >
    <colgroup>
-      <col  style="background-color:red">
+      <col style="background-color:red">
       <col style="background-color:yellow">
-     <col  style="background-color:red">
+      <col style="background-color:red">
       <col style="background-color:yellow">
    </colgroup>
    <tr>
@@ -71,13 +71,13 @@ Data center tour at end</th>
          </ul>
 </th>
   </tr>  
-   <tr text-align: left;>
+   <tr>
       <th>4</th>
       <th>4/26/19</th> 
       <th>Threads</th>
       <th>Intro to MPI; Comms/network; prof w/timers</th>
   </tr>  
-   <tr text-align: left;>
+   <tr>
       <th>5</th>
       <th>5/3/19</th> 
       <th>MPI, part 1</th>
