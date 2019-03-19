@@ -22,9 +22,9 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
 <h2>SCC Training Plan (Tentative):</h2>
 <table style="width 90%;" >
    <colgroup>
-      <col span="2" style="background-color:red">
+      <col  style="background-color:red">
       <col style="background-color:yellow">
-     <col span="2" style="background-color:red">
+     <col  style="background-color:red">
       <col style="background-color:yellow">
    </colgroup>
    <tr>
