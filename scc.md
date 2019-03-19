@@ -67,7 +67,7 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
       <th>4</th>
       <th>4/26/19</th> 
       <th>Threads</th>
-      <th>Intro to MPI; Comms/network; prof w/timers</th>
+      <th>Pthreads, OpenMPI</th>
   </tr>  
    <tr>
       <th>5</th>
@@ -112,3 +112,5 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
       <th>Final exams week</th>
   </tr>  
   </table>
+  
+  
