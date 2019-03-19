@@ -22,6 +22,7 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
 
 # SCC Training Plan (Tentative):
 |WEEK | DATE | TOPIC | DETAILS |
+------ | -------- | ------------------------- | ---------------| 
 |0 |4/1/19 |Spring quarter |Quarter begins|
 
 1
