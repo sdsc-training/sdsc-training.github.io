@@ -22,7 +22,7 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
 
 # SCC Training Plan (Tentative):
 |WEEK | DATE | TOPIC | DETAILS |
------- | -------- | ------------------------- | ---------------| 
+| :------: | :-------: | :--------- | :---------| 
 |0 |4/1/19 |Spring quarter |Quarter begins|
 |1|4/5/19|SCC Program|SCC History & SDSC Plan ; Registration process & accounts; SCC Apps Overview (Linpack; HPCGOthers TBD);Data center tour at end
 |  |  |HPC Overview|Overview of HPC history;|Architecture: systems, networks,; data, ...
