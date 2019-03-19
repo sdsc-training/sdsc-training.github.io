@@ -21,12 +21,6 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
 
 <h2>SCC Training Plan (Tentative):</h2>
 <table style="width 90%;" >
-   <colgroup>
-      <col style="background-color:red">
-      <col style="background-color:yellow">
-      <col style="background-color:red">
-      <col style="background-color:yellow">
-   </colgroup>
    <tr>
       <th>WEEK</th>
       <th>DATES</th>
@@ -43,9 +37,7 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
       <th>1</th>
       <th>4/5/19</th> 
       <th>SCC Program/th>
-      <th>SCC History & SDSC Plan ; Registration process & accounts;
-SCC Apps Overview (Linpack; HPCG; mystery; hopefully have list by then);
-Data center tour at end</th>
+      <th>SCC History & SDSC Plan ; Registration process & accounts;SCC Apps Overview (Linpack; HPCG; mystery; hopefully have list by then);Data center tour at end</th>
   </tr>
   <tr>
       <th>1</th>
@@ -69,7 +61,7 @@ Data center tour at end</th>
          <li>System software Running jobs</li>
          <li>Queues & batch; files IO</li>
          </ul>
-</th>
+      </th>
   </tr>  
    <tr>
       <th>4</th>
