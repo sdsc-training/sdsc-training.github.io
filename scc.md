@@ -21,14 +21,16 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
 
 <h2>SCC Training Plan (Tentative):</h2>
 <table style="width 90%">
-    <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+   <tr>
+      <th>WEEK</th>
+      <th>DATE</th>
+      <th>TOPIC</th> 
+      <th>DETAILS</th>
   </tr>
     <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>0</th>
+    <th>4/1/19</th> 
+    <th>Spring quarter</th>
+    <th>Quarter begins</th>
   </tr>
   </table>
