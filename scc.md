@@ -28,58 +28,9 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
    <tr>
       <th>WEEK</th>
       <th>DATES</th>
-      <th>TOPIC</th> 
+      <th>TOPIC</th>
       <th>DETAILS</th>
    </tr>
-   <tr>
-      <th>0</th>
-      <th>4/1/19</th> 
-      <th>Spring quarter</th>
-      <th>Quarter begins</th>
-  </tr>
-  <tr>
-      <th>1</th>
-      <th>4/5/19</th> 
-      <th>SCC Program/th>
-      <th>SCC History & SDSC Plan ; Registration process & accounts;SCC Apps Overview (Linpack; HPCG; mystery; hopefully have list by then);Data center tour at end</th>
-  </tr>
-  <tr>
-      <th>1</th>
-      <th>4/5/19</th> 
-      <th>HPC Overview</th>
-      <th>Overview of HPC history;Architecture: systems, networks,; data, ...</th>
-  </tr>
-   <tr>
-      <th>2</th>
-      <th>4/12/19</th> 
-      <th>Basic Unix Skills</th>
-      <th>Linux intro; basic unix tools ssh, scp</th>
-  </tr>  
-   <tr>
-      <th>3</th>
-      <th>4/19/19</th> 
-      <th>Intro to Running Jobs on Comet</th>
-      <th><ul>
-         <li>Comet Architecture</li>
-         <li>Hands-on examples</li>
-         <li>System software Running jobs</li>
-         <li>Queues & batch; files IO</li>
-         </ul>
-      </th>
-  </tr>  
-   <tr>
-      <th>4</th>
-      <th>4/26/19</th> 
-      <th>Threads</th>
-      <th>Pthreads, OpenMPI</th>
-  </tr>  
-   <tr>
-      <th>5</th>
-      <th>5/3/19</th> 
-      <th>MPI, part 1</th>
-      <th>Intro to MPI; Comms/network; prof w/timers</th>
-  </tr>  
- 
   </table>
   
   
