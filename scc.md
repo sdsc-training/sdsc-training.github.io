@@ -65,13 +65,13 @@ Data center tour at end</th>
          </ul>
 </th>
   </tr>  
-   <tr>
+   <tr text-align: left;>
       <th>4</th>
       <th>4/26/19</th> 
       <th>Threads</th>
       <th>Intro to MPI; Comms/network; prof w/timers</th>
   </tr>  
-   <tr>
+   <tr text-align: left;>
       <th>5</th>
       <th>5/3/19</th> 
       <th>MPI, part 1</th>
