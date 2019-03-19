@@ -25,10 +25,10 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
 ------ | -------- | ------------------------- | ---------------| 
 |0 |4/1/19 |Spring quarter |Quarter begins|
 |1|4/5/19|SCC Program|SCC History & SDSC Plan ; Registration process & accounts; SCC Apps Overview (Linpack; HPCGOthers TBD);Data center tour at end
-| x|HPC Overview|Overview of HPC history;|Architecture: systems, networks,; data, ...
+|  |  |HPC Overview|Overview of HPC history;|Architecture: systems, networks,; data, ...
 |2|4/19/19|Basic Unix Skills|Linux intro; basic unix tools ssh, scp,
 |3|4/12/19|Intro to Running Jobs on Comet|Comet Architecture; Hands-on examples; System software Running jobs; ;Queues & batch; files IO
-|x| Hands-on | Demo cluster hardware; Install system and admin - locations
+|  |  | Hands-on | Demo cluster hardware; Install system and admin - locations
 |4|4/26/19|Threads|OpenMP; IO; prof w/timers
 |5|5/3/19|MPI, part 1|Intro to MPI; Comms/network;
 |6|5/10/19|MPI, part 2| Prof w/timers; IO
