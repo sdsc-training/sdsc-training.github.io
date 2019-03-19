@@ -36,65 +36,79 @@ The final 6 (plus alternates), who will travel to the meeting, will be chosen fr
   <tr>
       <th>1</th>
       <th>4/5/19</th> 
-      <th>topic</th>
-      <th>descr</th>
+      <th>SCC Program/th>
+      <th>SCC History & SDSC Plan ; Registration process & accounts;
+SCC Apps Overview (Linpack; HPCG; mystery; hopefully have list by then);
+Data center tour at end</th>
   </tr>
-     <tr>
+  <tr>
+      <th>1</th>
+      <th>4/5/19</th> 
+      <th>HPC Overview</th>
+      <th>Overview of HPC history;Architecture: systems, networks,; data, ...</th>
+  </tr>
+   <tr>
       <th>2</th>
       <th>4/12/19</th> 
-      <th>topic</th>
-      <th>descr</th>
+      <th>Basic Unix Skills</th>
+      <th>Linux intro; basic unix tools ssh, scp</th>
   </tr>  
    <tr>
       <th>3</th>
       <th>4/19/19</th> 
-      <th>topic</th>
-      <th>descr</th>
+      <th>Intro to Running Jobs on Comet</th>
+      <th><ul>
+         <li>Comet Architecture</li>
+         <li>Hands-on examples</li>
+         <li>System software Running jobs</li>
+         <li>Queues & batch; files IO</li>
+         </ul>
+</th>
   </tr>  
    <tr>
       <th>4</th>
       <th>4/26/19</th> 
-      <th>topic</th>
-      <th>descr</th>
+      <th>Threads</th>
+      <th>Intro to MPI; Comms/network; prof w/timers</th>
   </tr>  
    <tr>
       <th>5</th>
       <th>5/3/19</th> 
-      <th>topic</th>
-      <th>descr</th>
+      <th>MPI, part 1</th>
+      <th>Intro to MPI; Comms/network; prof w/timers</th>
   </tr>  
    <tr>
       <th>6</th>
       <th>5/10/19</th> 
-      <th>topic</th>
-      <th>descr</th>
+      <th>MPI, part 2</th>
+      <th>File IO; other topics tbd</th>
   </tr>  
    <tr>
       <th>7</th>
       <th>5/17/19</th> 
-      <th>topic</th>
-      <th>descr</th>
+      <th>GPU/CUDA</th>
+      <th>Architecture: CUDA; IO; prof w/timers</th>
   </tr>  
    <tr>
       <th>8</th>
       <th>5/24/19</th> 
-      <th>topic</th>
-      <th>descr</th>
+      <th>Performance, Optimization, and Profiling</th>
+      <th>Bobs talk/webinar(?) Common profiling and monitoring software and tools Gprof ARM MAP</th>
   </tr>  
    <tr>
+       <th>9</th>
+      <th>5/31/19</th> 
+      <th>Data Analytics</th>
+      <th>Tensor flow; torch; horovod (mach learning)</th>
+  </tr> 
+   <tr>
       <th>10</th>
-      <th>6/7/19 - 6/14/19</th> 
-      <th>SCC Core group Selection</th>
-      <th>complete before finals</th>
+      <th>6/7/19</th> 
+      <th>Optional Topics</th>
+      <th>SCC Core group Selection completed before finals</th>
   </tr>  
-  <tr>
+   <tr>
       <th>11</th>
-      <th>6/8/19 - 6/14/19</th> 
-      <th>Q3-Spring ends</th>
-      <th>Final exams week</th>
-  </tr>  
-   <tr>
-      <th>10</th>
       <th>6/8/19 - 6/14/19</th> 
       <th>Q3-Spring ends</th>
       <th>Final exams week</th>
