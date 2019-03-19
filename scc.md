@@ -4,7 +4,7 @@ One of the largest technical meetings in HPC in the world is the annual Supercom
 
 This year, SDSC is excited to announce that HPC Students will begin training UCSD students to participate in its Student Cluster Competition Program (and other potential HPC activities). Our goal is to successfully apply to be a team at the SCC’19 competition, to be held in Denver this Fall. However, this will be an annual activity, with future opportunities including sponsoring a team for the ISC High Performance comptuing meeting during Summer 2020 (https://www.isc-hpc.com/). For 2019, our training activities will include the following: (1)  HPC training during the Spring quarter; (2) HPC Cluster Buildout - a Summer of fun working on a state-of-the-art HPC Cluster; and (3) selection and development of the SCC team who will travel to SC. 
 
-Although participation on the team is limited to undergraduates, registration is open to UCSD undegraduate and graduate students. Register here:  a href="https://www.eiseverywhere.com/2019-scctraining">SCC Registration</a> 
+Although participation on the team is limited to undergraduates, registration is open to UCSD undegraduate and graduate students. Register here:  <a href="https://www.eiseverywhere.com/2019-scctraining">SCC Registration</a> 
 
 ## (1) HPC training: 
 We have planned a series of 10 training sessions, to be held on Fridays from 1:00pm to 3:00pm in the SDSC Auditorium. The scope of the training effort includes several skill development activities, including:
