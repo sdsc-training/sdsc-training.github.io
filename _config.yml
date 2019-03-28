@@ -1,4 +1,6 @@
-baseurl: /
+url      : https://training.sdsc.edu     # the base hostname & protocol for your site 
+baseurl: 
+blogurl :   /blog
 name: Mary Thomas, SDSC Training
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
