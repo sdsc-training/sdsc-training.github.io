@@ -1,2 +1,4 @@
 name: Mary Thomas, SDSC Training
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
